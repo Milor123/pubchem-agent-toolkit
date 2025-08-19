@@ -38,6 +38,8 @@ PySocks
 
 Install them using `uv` or `pip`:
 ```bash
+uv venv
+.venv\Scripts\activate
 uv pip install -r requirements.txt
 ```
 *(Note: `PySocks` is only required if you plan to use the Tor SOCKS5 proxy feature.)*
