@@ -91,7 +91,7 @@ Here are some examples of how to interact with the agent. These tests were condu
 
 A crucial finding from our testing is the importance of the model you choose. We **strongly recommend against using small or local models** for this task. Smaller models often struggle to correctly parse the data returned by the tool, leading to errors such as hallucinated values, incorrect formatting, or, most critically, **rounding decimal numbers**, which defeats the purpose of this high-precision tool.
 
-To ensure the integrity of your results, it's always a good practice to verify the raw data returned by the MCP. You can learn how to do this in the next section: [3.2 How to verify MCP outputs in the logs](#3.2 How to Verify MCP Outputs in the Logs).
+To ensure the integrity of your results, it's always a good practice to verify the raw data returned by the MCP. You can learn how to do this in the next section: [3.2 How to verify MCP outputs in the logs](#32-how-to-verify-mcp-outputs-in-the-logs).
 
 <img width="827" height="1075" alt="imagen" src="https://github.com/user-attachments/assets/ebca2458-721c-4741-b75b-3b8be16c3d13" />
 
