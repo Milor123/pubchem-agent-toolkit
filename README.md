@@ -98,7 +98,7 @@ A crucial finding from our testing is the importance of the model you choose. We
 
 To ensure the integrity of your results, it's always a good practice to verify the raw data returned by the MCP. You can learn how to do this in the next section: [3.2 How to verify MCP outputs in the logs](#32-how-to-verify-mcp-outputs-in-the-logs).
 
-<img width="827" height="1075" alt="imagen" src="https://github.com/user-attachments/assets/ebca2458-721c-4741-b75b-3b8be16c3d13" />
+<img width="837" height="1060" alt="imagen" src="https://github.com/user-attachments/assets/5a16c7a2-d65d-4d64-98dd-f3cb4cae9b22" />
 
 On the other hand, several models have demonstrated excellent performance. We achieved outstanding results with  **Google's `Gemini 2.5 Flash lite`**. showed remarkable precision in handling long decimal numbers and correctly formatting the final Markdown table.
 
