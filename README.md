@@ -28,8 +28,11 @@ This project relies on a few Python libraries. Make sure they are installed in y
 
 Create a `requirements.txt` file with the following content:
 ```txt
-pubchempy
 requests
+bs4 
+mcp 
+pubchempy
+pandas
 PySocks
 ```
 
