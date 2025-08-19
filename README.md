@@ -18,6 +18,31 @@ This is not just another PubChem wrapper. This server has been rebuilt from the 
 
 ---
 
+---
+
+### 🚀 No Installation Required: Try It Live on Smithery.ai
+
+For those who are new to MCP servers or just want to test the capabilities of this tool without any local setup, a live, hosted version is available on Smithery.ai. This allows you to chat with the agent directly in your browser.
+
+[**<-- Explore the Live PubChem Agent on Smithery.ai -->**](https://smithery.ai/server/@Milor123/smithery-pubchem-deploy)
+
+**How to get started:**
+
+1.  Click the link above to go to the server page.
+2.  Sign in using your **GitHub** or **Google** account.
+3.  Click the **"Explore capabilities"** button to open a chat interface and start testing!
+
+> **✅ Recommended Models for Best Results**
+>
+> To get the highest accuracy, especially with long decimal numbers, we strongly recommend using powerful models. The following have been tested and work excellently with this tool:
+>
+> *   **Anthropic's Claude 3 Sonnet**
+> *   **OpenAI's GPT-4 Turbo** (or newer versions like GPT-4o)
+>
+> We confirmed that both models correctly processed the full precision of the decimal numbers returned by the tool without any rounding.
+
+---
+
 ## 🚀 Quick Start & Installation
 
 This server is designed to be run locally, either on your desktop or within the AnythingLLM Docker environment.
