@@ -95,10 +95,13 @@ To ensure the integrity of your results, it's always a good practice to verify t
 
 <img width="827" height="1075" alt="imagen" src="https://github.com/user-attachments/assets/ebca2458-721c-4741-b75b-3b8be16c3d13" />
 
+On the other hand, several models have demonstrated excellent performance. We achieved outstanding results with  **Google's `Gemini 2.5 Flash lite`**. showed remarkable precision in handling long decimal numbers and correctly formatting the final Markdown table.
 
-On the other hand, several models have demonstrated excellent performance. We achieved outstanding results with **Kimichat's `Kimi-2`** and **Google's `Gemini 1.5 Flash`**. Both models showed remarkable precision in handling long decimal numbers and correctly formatting the final Markdown table.
+Google gemini 2.5 flash lite without prompt and with prompt keep perfect decimals (in the example use 0.6 of temperature)
 
-For this specific task, my personal favorite is **`Kimi-2`** due to its consistent accuracy and reliability.
+<img width="1089" height="1061" alt="imagen" src="https://github.com/user-attachments/assets/4574efa5-d6d9-49e3-a665-a39a427f09a1" />
+
+For this specific task, my personal favorite is **`Gemini 2.5 Flash lite`** due to its consistent accuracy and reliability.
 
 ### 3.2 How to Verify MCP Outputs in the Logs
 
